@@ -8,6 +8,19 @@ I take great satisfaction in being a composed, self-assured person who enjoys de
 
 **Connect with me on** : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-dattaram-pawar/)
 
+## Relevant Project Repositories:
+
+| Project                                                                 | Description |
+|-------------------------------------------------------------------------|-------------|
+| [Motor Vehicle Crashes Analysis](https://github.com/Siddharth-Dattaram-Pawar/Motor_Vehicle_Crashes_Analysis) |             |
+| [Food Inspection Analysis](https://github.com/Siddharth-Dattaram-Pawar/Food_Inspection_Analysis)               |             |
+| [TechGenie : AI Powered Answers](https://github.com/Siddharth-Dattaram-Pawar/TechGenie_AI_Powered_Answers)      |             |
+| [InformaPDF : PDF Extraction & Querying](https://github.com/Siddharth-Dattaram-Pawar/InformaPDF-PDF_Extraction_And_Querying) |             |
+| [IntelliDoc : A Multi-Modal RAG based QA Chatbot](https://github.com/Siddharth-Dattaram-Pawar/IntelliDoc-A_MultiModal_RAG_based_QA_Chatbot) |             |
+| [DocuQ : A Multi-Agent System](https://github.com/Siddharth-Dattaram-Pawar/DocuQ-A_Multi_Agent_System)           |             |
+| [City Tram Conveyance Management System](https://github.com/Siddharth-Dattaram-Pawar/City_Tram_Conveyance_Management_System) |             |
+
+
 ## Technical Skills
 
 **Languages :**
