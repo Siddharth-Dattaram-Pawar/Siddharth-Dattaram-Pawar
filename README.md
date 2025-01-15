@@ -1,12 +1,22 @@
 # Hi👋,I am Siddharth Pawar
-**Data Engineering & Analytics Enthusiast**
 
 
-I'm a graduate student at Northeastern University in Boston, pursuing Master of Science in Information Systems. My professional path is strongly focused on achieving success in the fields of Data Engineering & Analytics, motivated by a strong desire to use data to solve challenging problems and uncover game-changing insights.
+I'm currently working as a **Data Engineer on a co-op at ATLAS SP Partners**. My professional path is strongly focused on achieving success in the fields of Data Engineering & Analytics, motivated by a strong desire to use data to solve challenging problems and uncover game-changing insights.
 
-I take great satisfaction in being a composed, self-assured person who enjoys developing deep relationships with people from many backgrounds. I have excellent communication abilities and am very good at clearly and precisely expressing concepts. My capacity for productive cross-functional team collaboration guarantees smooth coordination and a cohesive strategy for accomplishing project objectives.
+I take great satisfaction in being a composed, self-assured person who enjoys developing deep relationships with people from many backgrounds. I possess excellent communication skills and ability to precisely express my thought process. My capacity for productive cross-functional team collaboration guarantees smooth coordination and a cohesive strategy for accomplishing project objectives.
 
-**Connect with me on** : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-dattaram-pawar/)
+## **Background :**
+
+1. Master of Science in Information Systems, Northeastern University : Boston (Sep 2023 - Dec 2025)
+2. Bachelor of Engineering in Information Technology, University of Mumbai (Aug 2018 - June 2022)
+
+## **Previous Work Experience :** 
+
+1. Data Analyst @ Reliance Jio (July 2022 - Aug 2023)
+2. Data Analyst Intern @ Fields Data (April 2022 - June 2022)
+3. Research Data and Analytics Intern @ OYE (July 2020 - Sep 2020)
+
+## **Connect with me on** : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-dattaram-pawar/)
 
 ## Relevant Project Repositories:
 
