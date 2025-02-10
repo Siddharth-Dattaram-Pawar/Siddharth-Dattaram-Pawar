@@ -10,11 +10,12 @@ I take great satisfaction in being a composed, self-assured person who enjoys de
 1. Master of Science in Information Systems, Northeastern University : Boston (Sep 2023 - Dec 2025)
 2. Bachelor of Engineering in Information Technology, University of Mumbai (Aug 2018 - June 2022)
 
-## **Previous Work Experience :** 
+## **Work Experience :** 
 
-1. Data Analyst @ Reliance Jio (July 2022 - Aug 2023)
-2. Data Analyst Intern @ Fields Data (April 2022 - June 2022)
-3. Research Data and Analytics Intern @ OYE (July 2020 - Sep 2020)
+1. Data Engineer Co-op @ATLAS SP Partners, New York City (Jan 2025 - Aug 2025)
+2. Data Analyst @ Reliance Jio, Navi Mumbai (July 2022 - Aug 2023)
+3. Data Analyst Intern @ Fields Data (April 2022 - June 2022)
+4. Research Data and Analytics Intern @ OYE, Mumbai (July 2020 - Sep 2020)
 
 ## **Connect with me on** : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-dattaram-pawar/)
 
