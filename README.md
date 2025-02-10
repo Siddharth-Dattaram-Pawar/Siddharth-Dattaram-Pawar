@@ -13,9 +13,10 @@ I take great satisfaction in being a composed, self-assured person who enjoys de
 ## **Work Experience :** 
 
 1. Data Engineer Co-op @ATLAS SP Partners, New York City (Jan 2025 - Aug 2025)
-2. Data Analyst @ Reliance Jio, Navi Mumbai (July 2022 - Aug 2023)
-3. Data Analyst Intern @ Fields Data (April 2022 - June 2022)
-4. Research Data and Analytics Intern @ OYE, Mumbai (July 2020 - Sep 2020)
+2. Graduate Teaching Assistant : Data Management and Database Design, Northeastern University, Boston (Sep 2024 - Dec 2024)
+3. Data Analyst @ Reliance Jio, Navi Mumbai (July 2022 - Aug 2023)
+4. Data Analyst Intern @ Fields Data (April 2022 - June 2022)
+5. Research Data and Analytics Intern @ OYE, Mumbai (July 2020 - Sep 2020)
 
 ## **Connect with me on** : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-dattaram-pawar/)
 
