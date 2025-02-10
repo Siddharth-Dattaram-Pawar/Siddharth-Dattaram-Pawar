@@ -47,7 +47,7 @@ I take great satisfaction in being a composed, self-assured person who enjoys de
 
 **Visualization and Analytics :**
 
-![DBT](https://img.shields.io/badge/DBT-FF6347?style=for-the-badge&logo=dbt&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Alteryx](https://img.shields.io/badge/Alteryx-00B5E2?style=for-the-badge&logo=alteryx&logoColor=white) ![Talend](https://img.shields.io/badge/Talend-FF5025?style=for-the-badge&logo=talend&logoColor=white) ![Informatica](https://img.shields.io/badge/Informatica-68A3C8?style=for-the-badge&logo=informatica&logoColor=white)
+![DBT](https://img.shields.io/badge/DBT-FF6347?style=for-the-badge&logo=dbt&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Alteryx](https://img.shields.io/badge/Alteryx-00B5E2?style=for-the-badge&logo=alteryx&logoColor=white) ![Talend](https://img.shields.io/badge/Talend-FF5025?style=for-the-badge&logo=talend&logoColor=white) 
 
 **Cloud Platforms :**
 
