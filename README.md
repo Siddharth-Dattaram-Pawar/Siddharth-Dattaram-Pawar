@@ -45,7 +45,7 @@ I take great satisfaction in being a composed, self-assured person who enjoys de
 
 **Databases :**
 
-![Pinecone](https://img.shields.io/badge/Pinecone-5D3FD3?style=for-the-badge&logo=pinecone&logoColor=white) ![Clickhouse](https://img.shields.io/badge/ClickHouse-000000?style=for-the-badge&logo=clickhouse&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle DB](https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Azure Data Studio](https://img.shields.io/badge/Azure%20Data%20Studio-2D7BFF?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MySQL DB](https://img.shields.io/badge/MySQL%20DB-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL DB](https://img.shields.io/badge/PostgreSQL%20DB-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-5D3FD3?style=for-the-badge&logo=pinecone&logoColor=white) ![Clickhouse](https://img.shields.io/badge/ClickHouse-000000?style=for-the-badge&logo=clickhouse&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle DB](https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Azure Data Studio](https://img.shields.io/badge/Azure%20Data%20Studio-2D7BFF?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![SQL Server DB](https://img.shields.io/badge/SQL%20Server%20DB-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MySQL DB](https://img.shields.io/badge/MySQL%20DB-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL DB](https://img.shields.io/badge/PostgreSQL%20DB-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Visualization and Analytics :**
 
@@ -53,7 +53,15 @@ I take great satisfaction in being a composed, self-assured person who enjoys de
 
 **Cloud Platforms :**
 
-![Snowflake](https://img.shields.io/badge/Snowflake-00A3E0?style=for-the-badge&logo=snowflake&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-FF1C1C?style=for-the-badge&logo=microsoft-azure-data-factory&logoColor=white) ![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-003B49?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017B75?style=for-the-badge&logo=apache-airflow&logoColor=white) ![Apache Superset](https://img.shields.io/badge/Apache%20Superset-292E3D?style=for-the-badge&logo=apache-superset&logoColor=white) ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=google-big-query&logoColor=white) ![Google Analytics 4](https://img.shields.io/badge/Google%20Analytics%204-E37400?style=for-the-badge&logo=google-analytics&logoColor=white) ![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white) ![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=for-the-badge&logo=google-data-studio&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-00A3E0?style=for-the-badge&logo=snowflake&logoColor=white) 
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
+
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-FF1C1C?style=for-the-badge&logo=microsoft-azure-data-factory&logoColor=white) ![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-003B49?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017B75?style=for-the-badge&logo=apache-airflow&logoColor=white) ![Apache Superset](https://img.shields.io/badge/Apache%20Superset-292E3D?style=for-the-badge&logo=apache-superset&logoColor=white) 
+
+![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=google-big-query&logoColor=white) ![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=for-the-badge&logo=google-data-studio&logoColor=white) ![Google Analytics 4](https://img.shields.io/badge/Google%20Analytics%204-E37400?style=for-the-badge&logo=google-analytics&logoColor=white) ![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white) 
 
 
 **Functional Skills :**
@@ -64,8 +72,9 @@ I take great satisfaction in being a composed, self-assured person who enjoys de
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
 
-![LangChain](https://img.shields.io/badge/LangChain-2C80B3?style=for-the-badge&logo=python&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-4C4C9A?style=for-the-badge) 
+![RAG Models](https://img.shields.io/badge/Retrieval%20Augmented%20Generation%20(RAG)-FFD700?style=for-the-badge&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-2C80B3?style=for-the-badge&logo=python&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-4C4C9A?style=for-the-badge) 
 
-![Atlassian Jira](https://img.shields.io/badge/Atlassian%20Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) 
+![Atlassian Jira](https://img.shields.io/badge/Atlassian%20Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Freshservice ITSM](https://img.shields.io/badge/Freshservice%20ITSM-29B0D0?style=for-the-badge&logo=freshservice&logoColor=white)
+
 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
