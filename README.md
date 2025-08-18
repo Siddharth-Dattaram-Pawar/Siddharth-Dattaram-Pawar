@@ -1,14 +1,14 @@
 # Hi👋,I am Siddharth Pawar
 
 
-I'm currently working as a **Data Engineer on a co-op at ATLAS SP Partners**. My professional path is strongly focused on achieving success in the fields of Data Engineering & Analytics, motivated by a strong desire to use data to solve challenging problems and uncover game-changing insights.
+I am currently in my final semester of graduate studies at Northeastern. Prior to my final semester, I worked as a **Data Engineer on a co-op at ATLAS SP Partners**. My professional path is strongly focused on achieving success in the fields of Data Engineering & Analytics, motivated by a strong desire to use data to solve challenging problems and uncover game-changing insights.
 
 I take great satisfaction in being a composed, self-assured person who enjoys developing deep relationships with people from many backgrounds. I possess excellent communication skills and ability to precisely express my thought process. My capacity for productive cross-functional team collaboration guarantees smooth coordination and a cohesive strategy for accomplishing project objectives.
 
 ## **Work Experience :** 
 
 1. Data Engineer Co-op @ATLAS SP Partners, New York City (Jan 2025 - Aug 2025)
-2. Graduate Teaching Assistant : Data Management and Database Design, Northeastern University, Boston (Sep 2024 - Dec 2024)
+2. Graduate Teaching Assistant : Data Management and Database Design, Northeastern University, Boston (Sep 2024 - Dec 2024, Sep 2025 - Dec 2025)
 3. Data Analyst @ Reliance Jio, Navi Mumbai (July 2022 - Aug 2023)
 4. Data Analyst Intern @ Fields Data (April 2022 - June 2022)
 5. Research Data and Analytics Intern @ OYE, Mumbai (July 2020 - Sep 2020)
@@ -24,6 +24,8 @@ I take great satisfaction in being a composed, self-assured person who enjoys de
 - Designing Advanced Data Architectures for Business Intelligence
 - Big Data Systems & Intelligence Analytics
 - Agile Software Development
+- Gen AI and LLMs for Data Engineering
+- Program Structures and Algorithms
 
 ### 2. Bachelor of Engineering in Information Technology, University of Mumbai (Aug 2018 - June 2022)
 
