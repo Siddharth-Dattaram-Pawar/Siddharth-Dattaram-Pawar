@@ -80,7 +80,7 @@ I take great satisfaction in being a composed, self-assured person who enjoys de
 
 **Cloud Platforms :**
 
-![Snowflake](https://img.shields.io/badge/Snowflake-00A3E0?style=for-the-badge&logo=snowflake&logoColor=white)  
+![Snowflake](https://img.shields.io/badge/Snowflake-00A3E0?style=for-the-badge&logo=snowflake&logoColor=white) ![Snowflake Cortex AI](https://img.shields.io/badge/Snowflake%20Cortex%20AI-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) 
 
 ![⚡ Azure Data Factory](https://img.shields.io/badge/⚡%20Azure%20Data%20Factory-FF1C1C?style=for-the-badge&logo=microsoft-azure-data-factory&logoColor=white) ![⚡ Azure Databricks](https://img.shields.io/badge/⚡%20Azure%20Databricks-003B49?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![⚡ Azure Synapse Analytics](https://img.shields.io/badge/⚡%20Azure%20Synapse%20Analytics-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![⚡ Azure Data Explorer](https://img.shields.io/badge/⚡%20Azure%20Data%20Explorer-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![⚡ Azure SQL Database](https://img.shields.io/badge/⚡%20Azure%20SQL%20Database-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![⚡ Azure Cosmos DB](https://img.shields.io/badge/⚡%20Azure%20Cosmos%20DB-0066B8?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![⚡ Azure DevOps](https://img.shields.io/badge/⚡%20Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
   
@@ -88,14 +88,11 @@ I take great satisfaction in being a composed, self-assured person who enjoys de
 
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white) ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white) ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white) ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white) ![AWS Glue](https://img.shields.io/badge/AWS%20Glue-F58534?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017B75?style=for-the-badge&logo=apache-airflow&logoColor=white) ![Apache Superset](https://img.shields.io/badge/Apache%20Superset-292E3D?style=for-the-badge&logo=apache-superset&logoColor=white)
-
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017B75?style=for-the-badge&logo=apache-airflow&logoColor=white) ![Apache Superset](https://img.shields.io/badge/Apache%20Superset-292E3D?style=for-the-badge&logo=apache-superset&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
  
 **Functional Skills :**
 
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-0099FF?style=for-the-badge) ![Big Data Analytics](https://img.shields.io/badge/Big%20Data%20Analytics-6C0082?style=for-the-badge) ![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-003366?style=for-the-badge) ![Data Pipelining](https://img.shields.io/badge/Data%20Pipelining-FFD700?style=for-the-badge) ![ETL](https://img.shields.io/badge/ETL-FF8800?style=for-the-badge) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-00BFAE?style=for-the-badge) ![Dimensional Modeling](https://img.shields.io/badge/Dimensional%20Modeling-1D8E6A?style=for-the-badge) ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-56A9E4?style=for-the-badge) ![Data Profiling](https://img.shields.io/badge/Data%20Profiling-6200EA?style=for-the-badge) ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-00C8E8?style=for-the-badge) ![Database Management](https://img.shields.io/badge/Database%20Management-00BFFF?style=for-the-badge)
-
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-0099FF?style=for-the-badge) ![Big Data Analytics](https://img.shields.io/badge/Big%20Data%20Analytics-6C0082?style=for-the-badge) ![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-003366?style=for-the-badge) ![Data Pipelining](https://img.shields.io/badge/Data%20Pipelining-FFD700?style=for-the-badge) ![ETL](https://img.shields.io/badge/ETL-FF8800?style=for-the-badge) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-00BFAE?style=for-the-badge) ![Dimensional Modeling](https://img.shields.io/badge/Dimensional%20Modeling-1D8E6A?style=for-the-badge) ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-56A9E4?style=for-the-badge) ![Data Profiling](https://img.shields.io/badge/Data%20Profiling-6200EA?style=for-the-badge) ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-00C8E8?style=for-the-badge) ![Database Management](https://img.shields.io/badge/Database%20Management-00BFFF?style=for-the-badge) ![Behavioral Analytics](https://img.shields.io/badge/Behavioral%20Analytics-0052CC?style=for-the-badge&logo=google-analytics&logoColor=white)
 
 **Other Tools :**
 
