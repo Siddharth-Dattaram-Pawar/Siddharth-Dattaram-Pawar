@@ -1,16 +1,21 @@
 # Hi👋,I am Siddharth
 
-A graduate student, currently in the final semester of graduate studies at Northeastern University, Boston. My professional path is strongly focused on being successfully adaptive in the domain of Data Engineering & Analytics, motivated by a strong desire of using data to solve challenging problems and uncover game-changing insights.
+An Associate on the Data & Strategy Team at Atlas SP Partners!
+
+A Graduate from Northeastern University, Boston with an MS Degree in Information Systems.
+
+My professional path is strongly focused on being successfully adaptive in the domain of Data Engineering & Analytics, motivated by a strong desire of using data to solve challenging problems and uncover game-changing insights.
 
 I take great satisfaction in being a composed, self-assured individual who enjoys developing friendly connections with people from diverse backgrounds. I possess excellent communication skills and ability to precisely express my thought process. My capacity for productive cross-functional team collaboration guarantees smooth coordination and a cohesive strategy for accomplishing any given project objectives.
 
 ## **Work Experience :** 
 
-1. Data Engineer Co-op @ATLAS SP Partners, New York City, USA (Jan 2025 - Aug 2025)
-2. Graduate Teaching Assistant : Data Management and Database Design, Northeastern University, Boston, USA (Sep 2024 - Dec 2024, Sep 2025 - Dec 2025)
-3. Data Analyst @ Reliance Jio, Navi Mumbai, India (July 2022 - Aug 2023)
-4. Data Analyst Intern @ Fields Data (April 2022 - June 2022)
-5. Research Data and Analytics Intern @ OYE, Mumbai (July 2020 - Sep 2020)
+1. Associate : Data & Strategy @ATLAS SP Partners, New York City, USA (Jan 2026 - Present)
+2. Data Engineer Co-op @ATLAS SP Partners, New York City, USA (Jan 2025 - Aug 2025)
+3. Graduate Teaching Assistant : Data Management and Database Design, Northeastern University, Boston, USA (Sep 2024 - Dec 2024, Sep 2025 - Dec 2025)
+4. Data Analyst @ Reliance Jio, Navi Mumbai, India (July 2022 - Aug 2023)
+5. Data Analyst Intern @ Fields Data (April 2022 - June 2022)
+6. Research Data and Analytics Intern @ OYE, Mumbai (July 2020 - Sep 2020)
 
 ## **Education:**
 
