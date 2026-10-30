@@ -1,17 +1,17 @@
 # Hi👋,I am Siddharth
 
-An Associate on the Data & Strategy Team at Atlas SP Partners!
+I’m an Associate on the Data & Strategy team at Atlas SP Partners, where my work sits somewhere between Data Engineering, BI, and AI forward-deployed engineering. No two days look exactly alike, which is a big part of why I enjoy it.
 
-A Graduate from Northeastern University, Boston with an MS Degree in Information Systems.
+I hold an MS in Information Systems from Northeastern University, with a focus on Data Engineering, Data Analytics, Business Intelligence, and Generative AI. Data has been the thread running through my entire career. Alongside my day-to-day responsibilities, I love exploring new use cases with data, and I’m always keen on kicking off new initiatives with varied tech stacks to see what’s possible.
 
-My professional path is strongly focused on being successfully adaptive in the domain of Data Engineering & Analytics, motivated by a strong desire of using data to solve challenging problems and uncover game-changing insights.
+What I enjoy most about work is the people. I love building real friendships with people from diverse backgrounds, and I’d like to think I’m someone who makes the workplace a little more fun. I’m comfortable working across cross-functional teams and keeping everyone aligned on a shared goal.
 
-I take great satisfaction in being a composed, self-assured individual who enjoys developing friendly connections with people from diverse backgrounds. I possess excellent communication skills and ability to precisely express my thought process. My capacity for productive cross-functional team collaboration guarantees smooth coordination and a cohesive strategy for accomplishing any given project objectives.
+Outside of work, I enjoy playing different sports and stay active by hitting the gym. The way you think through a game tends to carry over into how I approach problems at work, too.
 
 ## **Work Experience :** 
 
-1. Associate : Data & Strategy @ATLAS SP Partners, New York City, USA (Jan 2026 - Present)
-2. Data Engineer Co-op @ATLAS SP Partners, New York City, USA (Jan 2025 - Aug 2025)
+1. Associate : Data & AI @ATLAS SP Partners, New York City, USA (Jan 2026 - Present)
+2. Data & AI Co-op @ATLAS SP Partners, New York City, USA (Jan 2025 - Aug 2025)
 3. Graduate Teaching Assistant : Data Management and Database Design, Northeastern University, Boston, USA (Sep 2024 - Dec 2024, Sep 2025 - Dec 2025)
 4. Data Analyst @ Reliance Jio, Navi Mumbai, India (July 2022 - Aug 2023)
 5. Data Analyst Intern @ Fields Data (April 2022 - June 2022)
@@ -69,15 +69,11 @@ I take great satisfaction in being a composed, self-assured individual who enjoy
 
 **Languages :**
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Kusto Query Language](https://img.shields.io/badge/Kusto%20Query%20Language-5D3FD3?style=for-the-badge&logo=microsoft&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-**Libraries & Tools :**  
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0077B5?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-DA5B38?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Kusto Query Language](https://img.shields.io/badge/Kusto%20Query%20Language-5D3FD3?style=for-the-badge&logo=microsoft&logoColor=white)
 
 **Databases :**
 
-![Pinecone](https://img.shields.io/badge/Pinecone-5D3FD3?style=for-the-badge&logo=pinecone&logoColor=white) ![Clickhouse](https://img.shields.io/badge/ClickHouse-000000?style=for-the-badge&logo=clickhouse&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle DB](https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Azure Data Studio](https://img.shields.io/badge/Azure%20Data%20Studio-2D7BFF?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![SQL Server DB](https://img.shields.io/badge/SQL%20Server%20DB-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MySQL DB](https://img.shields.io/badge/MySQL%20DB-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL DB](https://img.shields.io/badge/PostgreSQL%20DB-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-5D3FD3?style=for-the-badge&logo=pinecone&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle DB](https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Azure Data Studio](https://img.shields.io/badge/Azure%20Data%20Studio-2D7BFF?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![SQL Server DB](https://img.shields.io/badge/SQL%20Server%20DB-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MySQL DB](https://img.shields.io/badge/MySQL%20DB-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL DB](https://img.shields.io/badge/PostgreSQL%20DB-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Visualization and Analytics :**
 
@@ -85,13 +81,13 @@ I take great satisfaction in being a composed, self-assured individual who enjoy
 
 **Cloud Platforms :**
 
-![Snowflake](https://img.shields.io/badge/Snowflake-00A3E0?style=for-the-badge&logo=snowflake&logoColor=white) ![Snowflake Cortex AI](https://img.shields.io/badge/Snowflake%20Cortex%20AI-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) 
+![Snowflake](https://img.shields.io/badge/Snowflake-00A3E0?style=for-the-badge&logo=snowflake&logoColor=white)
 
-![⚡ Azure Data Factory](https://img.shields.io/badge/⚡%20Azure%20Data%20Factory-FF1C1C?style=for-the-badge&logo=microsoft-azure-data-factory&logoColor=white) ![⚡ Azure Databricks](https://img.shields.io/badge/⚡%20Azure%20Databricks-003B49?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![⚡ Azure Synapse Analytics](https://img.shields.io/badge/⚡%20Azure%20Synapse%20Analytics-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![⚡ Azure Data Explorer](https://img.shields.io/badge/⚡%20Azure%20Data%20Explorer-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![⚡ Azure SQL Database](https://img.shields.io/badge/⚡%20Azure%20SQL%20Database-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![⚡ Azure Cosmos DB](https://img.shields.io/badge/⚡%20Azure%20Cosmos%20DB-0066B8?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![⚡ Azure DevOps](https://img.shields.io/badge/⚡%20Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+![⚡ Azure Data Factory](https://img.shields.io/badge/⚡%20Azure%20Data%20Factory-FF1C1C?style=for-the-badge&logo=microsoft-azure-data-factory&logoColor=white) ![⚡ Azure Databricks](https://img.shields.io/badge/⚡%20Azure%20Databricks-003B49?style=for-the-badge&logo=microsoft-azure&logoColor=white)
   
-![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Google Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Google Cloud SQL](https://img.shields.io/badge/Google%20Cloud%20SQL-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Google Cloud Dataproc](https://img.shields.io/badge/Google%20Cloud%20Dataproc-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Google Cloud Data Fusion](https://img.shields.io/badge/Google%20Cloud%20Data%20Fusion-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Google Cloud Dataflow](https://img.shields.io/badge/Google%20Cloud%20Dataflow-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white) ![Google Analytics 4](https://img.shields.io/badge/Google%20Analytics%204-E37400?style=for-the-badge&logo=google-analytics&logoColor=white) ![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Google Cloud Dataflow](https://img.shields.io/badge/Google%20Cloud%20Dataflow-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white) ![Google Analytics 4](https://img.shields.io/badge/Google%20Analytics%204-E37400?style=for-the-badge&logo=google-analytics&logoColor=white) ![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white)
 
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white) ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white) ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white) ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white) ![AWS Glue](https://img.shields.io/badge/AWS%20Glue-F58534?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white) ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white) ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white) ![AWS Glue](https://img.shields.io/badge/AWS%20Glue-F58534?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017B75?style=for-the-badge&logo=apache-airflow&logoColor=white) ![Apache Superset](https://img.shields.io/badge/Apache%20Superset-292E3D?style=for-the-badge&logo=apache-superset&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
  
